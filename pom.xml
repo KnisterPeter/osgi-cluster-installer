@@ -101,7 +101,7 @@
         <extensions>true</extensions>
         <configuration>
           <instructions>
-            <Export-Package>de.matrixweb.osgi.cluster</Export-Package>
+            <Export-Package>de.matrixweb.osgi.cluster.installer</Export-Package>
             <Bundle-Activator>de.matrixweb.osgi.cluster.installer.internal.Activator</Bundle-Activator>
           </instructions>
         </configuration>
